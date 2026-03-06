@@ -55,6 +55,10 @@ Submit changes by running:
 
 $ source ~/.bashrc
 
+Install pip
+
+$ sudo apt install python3-pip
+
 Install virtualenv
 
 $  https://virtualenv.pypa.io/en/latest/installation.html
@@ -62,6 +66,10 @@ $  https://virtualenv.pypa.io/en/latest/installation.html
 Create a virtualenv and activate it. 
 
 $  https://virtualenv.pypa.io/en/latest/user_guide.html
+
+or
+
+$  https://virtualenv.pypa.io/en/latest/
 
 Install tensorflow with GPU from the official tensorflow site
 
