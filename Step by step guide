@@ -138,6 +138,11 @@ Use the installation_checking.ipynb file from this repository to check if the GP
 Pytorch:
 $  pip install torch torchvision --index-url https://download.pytorch.org/whl/cu130
 
+Use the tutorial to check the installation:
+https://docs.pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
+
+From this repository:
+PyTorch_installation_check.ipynb
 
 
 I hope this helps everyone! 
