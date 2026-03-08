@@ -63,13 +63,17 @@ Install virtualenv
 
 $  https://virtualenv.pypa.io/en/latest/installation.html
 
+or
+
+$  https://virtualenv.pypa.io/en/latest/
+
 Create a virtualenv and activate it. 
 
 $  https://virtualenv.pypa.io/en/latest/user_guide.html
 
 or
 
-$  https://virtualenv.pypa.io/en/latest/
+$  https://virtualenv.pypa.io/en/latest/how-to/usage.html
 
 Install tensorflow with GPU from the official tensorflow site
 
